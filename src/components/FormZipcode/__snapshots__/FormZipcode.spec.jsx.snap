@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render zipcode form 1`] = `
+<div>
+  <form
+    class="css-1ldrcmr"
+  >
+    <div
+      class="css-1viozcy"
+    >
+      <div
+        class="css-1e8zq2i"
+      >
+        <label
+          class="css-knfhfe"
+          for="zipcode"
+        >
+          Zipcode
+        </label>
+        <input
+          class="css-4y926w"
+          id="zipcode"
+          name="zipcode"
+          placeholder="Zipcode"
+          type="text"
+        />
+      </div>
+      <div
+        class="css-1e8zq2i"
+      >
+        <label
+          class="css-knfhfe"
+          for="neighborhood"
+        >
+          neighborhood
+        </label>
+        <input
+          class="css-4y926w"
+          id="neighborhood"
+          name="neighborhood"
+          placeholder="neighborhood"
+          type="text"
+          value="Jardim Francisca"
+        />
+      </div>
+      <div
+        class="css-1e8zq2i"
+      >
+        <label
+          class="css-knfhfe"
+          for="publicplace"
+        >
+          Publicplace
+        </label>
+        <input
+          class="css-4y926w"
+          id="publicplace"
+          name="publicplace"
+          placeholder="publicplace"
+          type="text"
+          value="Street Joao Nagliatti"
+        />
+      </div>
+    </div>
+  </form>
+</div>
+`;
