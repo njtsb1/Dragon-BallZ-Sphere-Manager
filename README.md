@@ -3,7 +3,7 @@ Daily Lerarning
 # Dragon BallZ Sphere Manager
 
 Project developed at Bootcamp Impulso FullStack Developer with instruction from specialist [Laís Lima](https://github.com/lalizita "Laís Lima").</br>
-Learning how to build an application to manage the Dragon Balls, validating if we can invoke Shenron and ensuring the quality of the software so that it has no flaws. The application is in React and we use the react testing library, jest and Cypress, which are essential testing tools.
+Learning how to build an application to manage the Dragon Balls, validating if we can invoke Shenron and ensuring the quality of the software so that it has no flaws. The application is in ReactJS and we use the Jest, React Testing Library e Cypress, which are essential testing tools.
 
 ![Sheron](https://user-images.githubusercontent.com/95108889/219049893-b2c1849c-e021-4166-a51a-1341e452e4b1.jpg)
 </br>
